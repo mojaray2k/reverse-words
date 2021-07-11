@@ -20,5 +20,4 @@ reverseWords('this is a string of words');
 // => 'siht si a gnirts fo sdrow'
 
 reverseWords('Coding Javascript');
-// => 'gnidoC tpircsavaJ
-'
+// => 'gnidoC tpircsavaJ'
